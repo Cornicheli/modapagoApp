@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Modapago</string>
+  <string name="title_activity_main">Modapago</string>
+  <string name="package_name">ar.com.modapago.www</string>
+  <string name="fileprovider_authority">ar.com.modapago.www.fileprovider</string>
+  <string name="custom_url_scheme">ar.com.modapago.www</string>
+  <string name="ionic_app_id">aa9da5de</string>
+  <string name="ionic_channel_name">Production</string>
+  <string name="ionic_update_method">auto</string>
+  <string name="ionic_max_versions">2</string>
+  <string name="ionic_min_background_duration">30</string>
+  <string name="ionic_update_api">https://api.ionicjs.com</string>
+</resources>

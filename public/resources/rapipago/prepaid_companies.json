@@ -1,0 +1,147 @@
+[
+    {
+        "code": "9",
+        "name": "CLARO",
+        "paymentModeId": "28428644094400006805",
+        "maxAmmount": 1000,
+        "minAmmount": 10,
+        "form": [
+            {
+                "label": "Nro Linea",
+                "position": 0,
+                "dataType": "ALF",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IDC",
+                "length": 10,
+                "values": {}
+            },
+            {
+                "label": "Importe",
+                "position": 1,
+                "dataType": "IMP",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IV1",
+                "length": 10,
+                "values": {}
+            }
+        ]
+    },
+    {
+        "code": "16",
+        "name": "TELECOM PERSONAL.",
+        "paymentModeId": "28437310883500007795",
+        "maxAmmount": 1000,
+        "minAmmount": 15,
+        "form": [
+            {
+                "label": "Nro Linea",
+                "position": 0,
+                "dataType": "ALF",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IDC",
+                "length": 10,
+                "values": {}
+            },
+            {
+                "label": "Importe",
+                "position": 1,
+                "dataType": "IMP",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IV1",
+                "length": 10,
+                "values": {}
+            }
+        ]
+    },
+    {
+        "code": "1379",
+        "name": "DIRECTV PREPAGO",
+        "paymentModeId": "30669066199500000108",
+        "maxAmmount": 99999.99,
+        "minAmmount": 350,
+        "form": [
+            {
+                "label": "Cod. de barra",
+                "position": 0,
+                "dataType": "CBA",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "BA1",
+                "length": 18,
+                "values": {}
+            },
+            {
+                "label": "Importe",
+                "position": 1,
+                "dataType": "IMP",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IV1",
+                "length": 10,
+                "values": {}
+            }
+        ]
+    },
+    {
+        "code": "1488",
+        "name": "MOVISTAR - RECARGAS CELULAR",
+        "paymentModeId": "29453037476400000114",
+        "maxAmmount": 1000,
+        "minAmmount": 5,
+        "form": [
+            {
+                "label": "Nro Linea",
+                "position": 0,
+                "dataType": "ALF",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IDC",
+                "length": 10,
+                "values": {}
+            },
+            {
+                "label": "Importe",
+                "position": 1,
+                "dataType": "IMP",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IV1",
+                "length": 10,
+                "values": {}
+            }
+        ]
+    },
+    {
+        "code": "3144",
+        "name": "TUENTI RECARGAS MOVILES",
+        "paymentModeId": "51723379535100004716",
+        "maxAmmount": 1000,
+        "minAmmount": 5,
+        "form": [
+            {
+                "label": "Nro Linea",
+                "position": 0,
+                "dataType": "ALF",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IDC",
+                "length": 10,
+                "values": {}
+            },
+            {
+                "label": "Importe",
+                "position": 1,
+                "dataType": "IMP",
+                "component": "TEXT_FIELD",
+                "inline": false,
+                "field": "IV1",
+                "length": 10,
+                "values": {}
+            }
+        ]
+    }
+]

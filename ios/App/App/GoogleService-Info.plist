@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1048436752278-80lhs5ep3ntuv40hr9d1t99ietmru1ga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048436752278-80lhs5ep3ntuv40hr9d1t99ietmru1ga</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1048436752278-fr82vhva3i9fcqcsc35la8hs62b57vha.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBaww8orL8-1OpaXQ9KUvZ2aRWx-RC-xe4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048436752278</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ar.com.modapago.www</string>
+	<key>PROJECT_ID</key>
+	<string>modapago-e64d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>modapago-e64d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048436752278:ios:fea8745f24688abe</string>
+	<key>DATABASE_URL</key>
+	<string>https://modapago-e64d8.firebaseio.com</string>
+</dict>
+</plist>

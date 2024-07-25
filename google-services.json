@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048436752278",
+    "firebase_url": "https://modapago-e64d8.firebaseio.com",
+    "project_id": "modapago-e64d8",
+    "storage_bucket": "modapago-e64d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048436752278:android:fea8745f24688abe",
+        "android_client_info": {
+          "package_name": "ar.com.modapago.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048436752278-fr82vhva3i9fcqcsc35la8hs62b57vha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.modapago.www",
+            "certificate_hash": "b2f7cfe08e33769eedbf935e614168df5ece6c71"
+          }
+        },
+        {
+          "client_id": "1048436752278-2hcj9ukflg0jgrim39it0a3h7n7i1udo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8q7Ug0UuAr2KM2k5YksXSoAjOUru5y1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048436752278-2hcj9ukflg0jgrim39it0a3h7n7i1udo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

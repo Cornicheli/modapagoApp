@@ -1,0 +1,8 @@
+{
+  "name": "modapagoapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "aa9da5de"
+}
